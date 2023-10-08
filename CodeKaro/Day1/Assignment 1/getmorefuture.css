@@ -1,0 +1,41 @@
+.box{
+    border: 1px solid lightgray;
+    width: 700-px;
+    margin: 200px 700px;
+    border-radius: 15px;
+    align-items: center;
+    padding-bottom: 15px;
+
+}
+
+img{
+    width: 100%;
+    border-top-left-radius: 14px;
+    border-top-right-radius: 14px;
+}
+
+h2{
+    font-size: 36px;
+}
+.text{
+    padding-left: 20px;
+}
+
+.text p{
+    font-size: 26px;
+}
+
+.vd{
+    border: 1px solid lightgray;
+    width: 110px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 08px;
+    padding-bottom: 08px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.vd a{
+    color: blue;
+    font-size: 20px;
+}

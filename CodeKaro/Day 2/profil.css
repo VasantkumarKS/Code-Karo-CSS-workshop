@@ -1,0 +1,29 @@
+.profil{
+    width: 700px;
+    margin: 40px auto;
+    position: relative;
+}
+
+.bg-img{
+    width: 100%;
+}
+.user{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    margin-bottom: -40px;
+    margin-left: 270px;
+    border: 6px solid white;
+}
+
+h2{
+    text-align: center;
+}
+
+.h2-f{
+    text-align: center;
+    color: rgb(129, 129, 129);
+}
