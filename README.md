@@ -4,4 +4,4 @@ Description : Mastered CSS fundamentals including the box model, positioning tec
 5 Skills Acquired : Boxmodel , CSS Positions , CSS Flexbox & Layout , CSS Media Query & Animation
 
 
-Certificate link : https://lnkd.in/g3vPUfdU
+Certificate link : https://codekaro.in/course-certificate/3d19ff8e901aea43
